@@ -4,4 +4,6 @@
 The initial idea was to search multiple Web Pages (like wikipedia, quora.com etc) for specific Keywords. 
 The GUI was made in Visual Studio and Windows Forms for simplicity. The actual web search is done with a pyhton script using the googlesearch module. 
 
+![alt text](https://github.com/TheFruitDude/search_the_web/blob/master/screenshot.jpg?raw=true)
+
 First, I wanted to implement everything in Python, including the Graphical Interface. But tkinter is a pain in the ass. 
