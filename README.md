@@ -1,5 +1,5 @@
 # Advanced Web Search.  
-## This is an attempt to implement an advanced web search. 
+## This is an attempt to program an advanced web search.  
 
 The initial idea was to search multiple Web Pages (like wikipedia, quora.com etc) for specific Keywords. 
-The GUI was made in Visual Studio with Windows Forms. For the search, this is done with a python script. 
+The GUI was made in Visual Studio and Windows Forms for simplicity. The actual web search is done with a pyhton script using the googlesearch module. 
