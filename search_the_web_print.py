@@ -45,7 +45,6 @@ for site in websites_to_search:
 	i = 1
 	query = q
 	query += site
-	print("QUERY = " , query)
 	for url in search(query, stop=5):
 		links.append(url)
 		try:
