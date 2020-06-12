@@ -1,0 +1,6 @@
+1. tensorflow - Detection Text from natural images - Stack Overflow
+https://stackoverflow.com/questions/45615026/detection-text-from-natural-images
+
+2. machine learning - The steps to do object detection in natural image? - Stack Overflow
+https://stackoverflow.com/questions/28873847/the-steps-to-do-object-detection-in-natural-image
+
