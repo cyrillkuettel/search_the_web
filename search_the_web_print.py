@@ -7,10 +7,6 @@ import urllib
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import sys
-
-
-# first argv is query
-# everything else should be in the array websites_to_search
 links = []
 query = 'neural networks natural image processing'
 websites_to_search = ['stackoverflow.com','reddit.com','quora.com', 'en.wikipedia.org', ' ']
@@ -18,25 +14,22 @@ websites_to_search = ['stackoverflow.com','reddit.com','quora.com', 'en.wikipedi
 query = sys.argv[1]
 websites_to_search = sys.argv[2:]
 
-#print("query: ", query)
-#print("array ",  websites_to_search)
-
-
 def google_scrape_body(url):
 	thepage = urllib.request.urlopen(url)
 	soup = BeautifulSoup(thepage, "html.parser")
-	return str(dir(soup))
-	
+	return str(dir(soup))	
 def google_scrape(url):
     thepage = urllib.request.urlopen(url)
     soup = BeautifulSoup(thepage, "html.parser")
     return soup.title.text
 
+#  argv[1] =  query
+# everything else should be in the array websites_to_search
+
+
 
 
 # The actual google search happens here:
-
-
 query += " site:"
 #zwischenspeicher
 q = query
