@@ -21,3 +21,14 @@ C:\Users\Cyrill\Desktop\search_the_web-master\Search _The_Web\Search _The_Web\ob
 C:\Users\Cyrill\Desktop\search_the_web-master\Search _The_Web\Search _The_Web\obj\Debug\Search _The_Web.exe
 C:\Users\Cyrill\Desktop\search_the_web-master\Search _The_Web\Search _The_Web\obj\Debug\Search _The_Web.xml
 C:\Users\Cyrill\Desktop\search_the_web-master\Search _The_Web\Search _The_Web\obj\Debug\Search _The_Web.pdb
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\bin\Debug\Search _The_Web.exe.config
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\bin\Debug\Search _The_Web.exe
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\bin\Debug\Search _The_Web.pdb
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\bin\Debug\Search _The_Web.xml
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search _The_Web.vbprojAssemblyReference.cache
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search__The_Web.Form1.resources
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search__The_Web.Resources.resources
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search _The_Web.vbproj.GenerateResource.cache
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search _The_Web.exe
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search _The_Web.xml
+C:\Program Files\ILZrwx\search_the_web-master\Search _The_Web\obj\Debug\Search _The_Web.pdb
