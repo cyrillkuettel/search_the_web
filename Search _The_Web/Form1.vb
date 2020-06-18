@@ -1,13 +1,12 @@
 ﻿Imports System.IO
 ' ideas for this program
 
-' python path programmatically:
-'>>> import sys
-'>>> print(sys.executable)
 
 
 
+' Progress bar would be nice
 ' Web Crawling: get all the links for each link and visualize in a tree
+'add the option to specifically crawl subreddits. this can be using the scraper on the ubuntu desktop machine
 ' Make it so that the initial search windows disappears and a new window open which displays the results
 ' also change checkbox: should unselect everythign first
 
@@ -74,6 +73,7 @@ Public Class Form1
         start.Arguments = argss
         start.UseShellExecute = False
         start.WindowStyle = ProcessWindowStyle.Hidden 'don't show command prompt
+        start.CreateNoWindow = True ' This actually hides the command prompt
         start.RedirectStandardOutput = True
         'Dim result As String
 
