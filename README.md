@@ -5,8 +5,9 @@ The initial idea was to search multiple Web Pages (like wikipedia, quora.com etc
 
 Everything under the hood, like http requests, is running in python. The "googlesearch" library was very useful.
 
-![Alt text](screenshot.png?raw=true "Title")
-
 My first Idea was write a python-only program with a gui in the module Tkinter. A Monolithic application, everythin in one place. 
 I have tried  Tkinter. Now I know to stay away from Tkinter. 
 The GUI was made in Visual Studio, because that's just the easy way.
+
+![Alt text](screenshot.png?raw=true "Title")
+
