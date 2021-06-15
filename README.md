@@ -1,13 +1,18 @@
 # Advanced Web Search.  
-## This is an attempt to program an advanced web search.  
+ 
+The initial idea I had, was to search multiple Web Pages at once. The goal was to increase efficiency. 
+The "backend" is written in python. The "googlesearch" library was very useful.
 
-The initial idea was to search multiple Web Pages (like wikipedia, quora.com etc) for specific Keywords. 
+TODO: 
+ -Increase the depth of search. 
+ For Example:
+ For each search result:
+      -create tree of all Links, which flow outward from it.
 
-Everything under the hood, like http requests, is running in python. The "googlesearch" library was very useful.
-
-My first Idea was write a python-only program with a gui in the module Tkinter. A Monolithic application, everythin in one place. 
-I have tried  Tkinter. Now I know to stay away from Tkinter. 
-The GUI was made in Visual Studio, because that's just the easy way.
+## Why the Gui is a Windows Forms Application?
+My first Idea was write a python script using Tkinter. A "monolithic" application, everything in one file. 
+I have experimented with Tkinter. (Now I know to stay away from Tkinter. )
+The GUI, then, was created in Windows Froms Designer. The reason for that choice is just familiarity and convenience. I could also have used a python GUI Framework.
 
 ![Alt text](screenshot.png?raw=true "Title")
 
