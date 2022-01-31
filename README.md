@@ -1,7 +1,9 @@
 # Advanced Web Search.  
- 
-The idea for this project was apply the "site:" command in google search to multiple websites at once.
-The goal was to increase efficiency. 
+The overall goal for this project is to search the internet more effectively.
+The idea for this project was apply the "site:" command in google to search multiple websites. 
+There are some sites I'd search over and over again, and more often than not, they have exactly the ting I need.
+
+
 The backend is written in python. For this I have used the "googlesearch" package.
 
 
