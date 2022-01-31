@@ -7,10 +7,11 @@ There are some sites I'd search over and over again, and more often than not, th
 The backend is written in python. For this I have used the "googlesearch" package.
 
 
-## Why the Gui is a Windows Forms Application?
+## Why Windows Forms?
 Initially,I wanted to write an Application with Tkinter in the frontend.
 I have experimented with Tkinter. After the initial shock, I have decided against using it. 
-The GUI, then, was created in Windows Froms Designer. In retrospect, a better idea might have been to use soething like PyQt. 
+The GUI, then, was created in Windows Froms Designer. It was the only thing I was familiar at the time and I wanted to have something quick.  
+In retrospect, a better idea might have been to use soething like PyQt. 
 
 ## Screenshot
 
